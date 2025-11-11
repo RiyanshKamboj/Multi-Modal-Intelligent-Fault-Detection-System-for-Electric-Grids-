@@ -1,4 +1,9 @@
 # Multi-Modal-Intelligent-Fault-Detection-System-for-Electric-Grids-
+
+Grid Graph Data scource- "https://figshare.com/articles/dataset/PowerGraph/22820534"
+
+Dataset for LLM fine tuning- "https://drive.google.com/file/d/1lJtYDC3n-JwjHN25FqxVqKO9qziBy4n5/view?usp=sharing"
+
 Multi-Modal Intelligent Fault Detection System for Electric Grids using Graph Neural Networks and Large Language Models
 1. Introduction
 This project, titled “Multi-Modal Intelligent Fault Detection System for Electric Grids using Graph Neural Networks (GNNs) and Large Language Models (LLMs)”, was developed as a proof of concept (POC) during my tenure at Saudi Electricity Company (SEC).
